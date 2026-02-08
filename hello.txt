@@ -1,0 +1,11 @@
+GitHub is a web-based platform for version control and collaboration, built around Git, allowing developers to host and review code.
+
+It supports millions of open-source projects, enabling features like pull requests, issues tracking, and continuous integration.
+
+Launched in 2008 and acquired by Microsoft in 2018, GitHub now powers over 420 million repositories worldwide.
+​
+
+Users can create public repositories for free or use private ones with paid plans, fostering team workflows and code reviews.
+
+GitHub's Copilot and Actions features leverage AI and automation to streamline development and deployment processes.
+​
