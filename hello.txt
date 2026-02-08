@@ -9,3 +9,6 @@ Users can create public repositories for free or use private ones with paid plan
 
 GitHub's Copilot and Actions features leverage AI and automation to streamline development and deployment processes.
 ​
+Developers use GitHub Pages to host static websites directly from repositories, simplifying web project deployment.
+
+The platform integrates with countless third-party tools, enhancing productivity through a vast ecosystem of apps and extensions.
